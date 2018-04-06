@@ -1,0 +1,12 @@
+#headingProfile {
+    margin: 20px 30px 50px 30px;
+}
+
+#teacherHeading {
+    margin: 50px 30px 40px 30px;
+}
+
+#teacherChoice, {
+    display: inline-block;
+    vertical-align: top;
+}
